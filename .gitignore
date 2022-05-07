@@ -1,9 +1,7 @@
 # System Files and Directories
 .idea/
 .DS_Store
-!build
-build/*
-!build/CMakeCache.txt
+
 # Build Directories
 *cmake-build*/
 
